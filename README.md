@@ -1,12 +1,13 @@
 # web-sde-challenge
-1. Spec: Blue square is 5 units by 5 units, the yellow square is centered vertically and horizontally within the blue square.
+
+### Spec: Blue square is 5 units by 5 units, the yellow square is centered vertically and horizontally within the blue square.
  
 Q1: Create a layout to replicate the blue and yellow squares above using HTML and CSS
 Q2: Create the same layout using HTML5 Canvas
  
 Send back the resultant files (or url to the solution).
  
-2. Spec:  Experience: Customer arrives at this web page, votes their gender and instantly receives a tally of all female and male voters (represented as a percentage)
+### Spec:  Experience: Customer arrives at this web page, votes their gender and instantly receives a tally of all female and male voters (represented as a percentage)
 ·       Use a CSS framework like Semantic UI, bootstrap or foundation
 ·       Use a javascript framework like meteor, angular, etc.
 ·       Make your app look like the image below (or better)
