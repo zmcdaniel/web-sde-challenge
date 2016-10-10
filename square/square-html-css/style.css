@@ -1,0 +1,21 @@
+.blue-square {
+  background-color: #4987CB;
+  position: relative;
+  width: 50%;
+}
+
+.blue-square:after {
+  content: '';
+  display: block;
+  padding-bottom: 100%;
+}
+
+.yellow-square {
+  background-color: #FEFF0C;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  width: 50%;
+  height: 50%;
+}
+
