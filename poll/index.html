@@ -33,7 +33,7 @@
                 <div ng-class="malePercentage>femalePercentage ? 'text-success' : 'text-danger'">
                     {{ malePercentage }}%
                 </div>
-                <button ng-click="incrementMale()">Vote</button>
+                <button class='btn btn-success btn-lg' ng-click="incrementMale()">Vote</button>
             </div>
 
             <div id="female">
@@ -41,7 +41,7 @@
                 <div ng-class="malePercentage<femalePercentage ? 'text-success' : 'text-danger'">
                     {{ femalePercentage }}%
                 </div>
-                <button ng-click="incrementFemale()">Vote</button>
+                <button class='btn btn-success btn-lg' ng-click="incrementFemale()">Vote</button>
             </div>
 
         </div>

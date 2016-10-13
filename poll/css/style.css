@@ -1,0 +1,14 @@
+.container {
+    text-align: center;
+    font-size: 50px;
+}
+
+.vote-div {
+    width: 50%;
+    display: inline-block;
+    float: left;
+}
+
+.btn {
+    margin-top: 15px
+}
