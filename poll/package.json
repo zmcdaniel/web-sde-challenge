@@ -1,5 +1,5 @@
 {
-  "name": "fruits-and-veggies",
+  "name": "poll",
   "scripts": {
     "lint:js": "node_modules/eslint/bin/eslint.js js --fix; exit 0",
     "lint:css": "node_modules/csslint/cli.js css/; exit 0",
@@ -16,5 +16,9 @@
     "eslint-plugin-import": "^1.6.1",
     "eslint-plugin-jsx-a11y": "^1.2.0",
     "eslint-plugin-react": "^5.0.1"
-  }
+  },
+  "version": "1.0.0",
+  "description": "Poll app for Web SDE challenge at Robert Half International",
+  "main": "index.js",
+  "dependencies": {}
 }
