@@ -4,7 +4,7 @@
  
 - Q1: Layout replicating blue and yellow squares using HTML/CSS per instructions. Demo link here: [http://codepen.io/zmcdaniel/pen/pEKWkQ](http://codepen.io/zmcdaniel/pen/pEKWkQ)
 
-- Q2: Create the same layout using HTML5 Canvas. Demo link here: (http://codepen.io/zmcdaniel/pen/RGJLZp)[http://codepen.io/zmcdaniel/pen/RGJLZp]
+- Q2: Create the same layout using HTML5 Canvas. Demo link here: [http://codepen.io/zmcdaniel/pen/RGJLZp](http://codepen.io/zmcdaniel/pen/RGJLZp)
  
 ### Spec:  Experience: Customer arrives at this web page, votes their gender and instantly receives a tally of all female and male voters (represented as a percentage)
 ·       Use a CSS framework like Semantic UI, bootstrap or foundation
